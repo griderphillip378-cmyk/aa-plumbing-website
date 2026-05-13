@@ -1,6 +1,3 @@
-# Replace `app/page.js` With This Code
-
-```jsx
 export default function Website() {
   const services = [
     {
@@ -547,12 +544,3 @@ export default function Website() {
     </div>
   )
 }
-```
-
-# How To Publish
-
-1. Delete everything currently inside `app/page.js`
-2. Paste this new code
-3. Click `Commit changes`
-4. Wait about 1–2 minutes for Vercel to redeploy automatically
-5. Refresh your live website
