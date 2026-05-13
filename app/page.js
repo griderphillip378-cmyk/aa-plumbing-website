@@ -70,11 +70,11 @@ export default function Website() {
 
               <div>
                 <h1 className="text-2xl md:text-3xl font-black text-blue-950 leading-tight uppercase">
-                  AA Plumbing
+                  AA Plumbing & Electrical LLC
                 </h1>
 
                 <p className="text-slate-600 font-semibold uppercase tracking-wide">
-                  Reliable Plumbing Services Across Florida
+                  Professional Plumbing & Electrical Services Across Florida
                 </p>
               </div>
             </div>
@@ -125,11 +125,11 @@ export default function Website() {
             </div>
 
             <h2 className="text-5xl lg:text-7xl font-black text-white leading-tight uppercase mb-8">
-              Professional Plumbing Solutions You Can Depend On
+              Professional Plumbing & Electrical Solutions You Can Depend On
             </h2>
 
             <p className="text-xl text-slate-200 leading-relaxed mb-10 max-w-2xl">
-              AA Plumbing provides dependable residential and commercial
+              AA Plumbing & Electrical LLC provides dependable residential and commercial
               plumbing services with fast response times, honest pricing,
               and high-quality workmanship. From emergency repairs to
               complete plumbing installations, we deliver reliable
@@ -156,7 +156,7 @@ export default function Website() {
 
           <div className="bg-white rounded-3xl shadow-2xl p-10 lg:p-12">
             <h3 className="text-3xl font-black text-blue-950 uppercase mb-6">
-              Why Homeowners Choose AA Plumbing
+              Why Homeowners Choose AA Plumbing & Electrical LLC
             </h3>
 
             <div className="space-y-6 text-slate-700 leading-relaxed text-lg">
@@ -242,11 +242,11 @@ export default function Website() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center max-w-4xl mx-auto mb-20">
             <h2 className="text-5xl lg:text-6xl font-black text-blue-950 uppercase mb-8">
-              Complete Plumbing Services
+              Complete Plumbing & Electrical Services
             </h2>
 
             <p className="text-lg text-slate-700 leading-relaxed">
-              AA Plumbing delivers dependable plumbing services for
+              AA Plumbing & Electrical LLC delivers dependable plumbing services for
               homeowners and businesses throughout Florida. Whether you
               need emergency repairs, maintenance, installations, or full
               plumbing upgrades, our experienced team is committed to
@@ -280,11 +280,11 @@ export default function Website() {
         <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-5xl lg:text-6xl font-black text-blue-950 uppercase mb-8 leading-tight">
-              Trusted Plumbing Professionals Serving Florida
+              Trusted Plumbing & Electrical Professionals Serving Florida
             </h2>
 
             <p className="text-lg text-slate-700 leading-relaxed mb-6">
-              At AA Plumbing, we believe quality workmanship and honest
+              At AA Plumbing & Electrical LLC, we believe quality workmanship and honest
               service should be the foundation of every project. Our team
               is committed to helping homeowners and businesses solve
               plumbing issues quickly, efficiently, and professionally.
@@ -343,11 +343,11 @@ export default function Website() {
       <section className="bg-blue-950 py-24 text-white text-center">
         <div className="max-w-4xl mx-auto px-6">
           <h2 className="text-5xl lg:text-6xl font-black uppercase leading-tight mb-8">
-            Need Reliable Plumbing Service?
+            Need Reliable Plumbing & Electrical Service?
           </h2>
 
           <p className="text-xl text-slate-300 leading-relaxed mb-10">
-            Contact AA Plumbing today for professional residential and
+            Contact AA Plumbing & Electrical LLC today for professional residential and
             commercial plumbing solutions. Our team is ready to help with
             repairs, installations, maintenance, and emergency plumbing
             services.
@@ -381,7 +381,7 @@ export default function Website() {
 
             <p className="text-lg text-slate-700 leading-relaxed mb-10">
               Have a plumbing issue or need professional installation
-              services? Contact AA Plumbing today to schedule service or
+              services? Contact AA Plumbing & Electrical LLC today to schedule service or
               request a free estimate. We are committed to delivering
               dependable solutions and excellent customer care.
             </p>
@@ -471,17 +471,17 @@ export default function Website() {
 
               <div>
                 <h3 className="text-white text-xl font-black uppercase">
-                  AA Plumbing
+                  AA Plumbing & Electrical LLC
                 </h3>
 
                 <p className="text-slate-400">
-                  Professional Plumbing Services
+                  Professional Plumbing & Electrical Services
                 </p>
               </div>
             </div>
 
             <p className="leading-relaxed">
-              AA Plumbing proudly provides dependable residential and
+              AA Plumbing & Electrical LLC proudly provides dependable residential and
               commercial plumbing services throughout Florida with a
               commitment to professionalism, quality workmanship, and
               customer satisfaction.
@@ -538,7 +538,7 @@ export default function Website() {
         </div>
 
         <div className="border-t border-slate-800 mt-12 pt-8 text-center text-sm text-slate-500 px-6">
-          © 2026 AA Plumbing. All Rights Reserved.
+          © 2026 AA Plumbing & Electrical LLC. All Rights Reserved.
         </div>
       </footer>
     </div>
